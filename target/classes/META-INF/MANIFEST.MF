@@ -5,6 +5,6 @@ Built-By: shaivalpatel
 Implementation-Vendor-Id: com.example
 Build-Jdk: 1.8.0_172
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/whiteboard-fall-2018-server-java
+ ot-starter-parent/whiteboard-fall-2018-shaivl-patel-middle-tier-java
 Created-By: Maven Integration for Eclipse
 
